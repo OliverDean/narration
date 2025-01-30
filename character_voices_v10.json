@@ -1,0 +1,22 @@
+{
+  "Narrator": {
+    "speaker_id": "p234",
+    "description": "Primary narrator voice"
+  },
+  "Lucy": {
+    "speaker_id": "p228",
+    "description": "Light female voice (example ID from model)"
+  },
+  "Verona": {
+    "speaker_id": "p227",
+    "description": "Medium-range female voice"
+  },
+  "Avery": {
+    "speaker_id": "p225",
+    "description": "Slightly deeper female voice"
+  },
+  "Charles": {
+    "speaker_id": "p300",
+    "description": "Male voice"
+  }
+}

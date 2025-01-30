@@ -1,0 +1,274 @@
+{
+  "Narrator": {
+    "speaker_id": "p234",
+    "description": "Primary narrator voice"
+  },
+  "Lucy": {
+    "speaker_id": "p225",
+    "description": "Light female voice (example ID from model)"
+  },
+  "Verona": {
+    "speaker_id": "p227",
+    "description": "Medium-range female voice"
+  },
+  "Avery": {
+    "speaker_id": "p228",
+    "description": "Slightly deeper female voice"
+  },
+  "Kitchen": {
+    "speaker_id": "p226",
+    "description": "Round-robin assigned voice for Kitchen"
+  },
+  "Durocher": {
+    "speaker_id": "p229",
+    "description": "Round-robin assigned voice for Durocher"
+  },
+  "Yucky": {
+    "speaker_id": "p230",
+    "description": "Round-robin assigned voice for Yucky"
+  },
+  "Blackhorne": {
+    "speaker_id": "p231",
+    "description": "Round-robin assigned voice for Blackhorne"
+  },
+  "Snow": {
+    "speaker_id": "p232",
+    "description": "Round-robin assigned voice for Snow"
+  },
+  "Alpy": {
+    "speaker_id": "p233",
+    "description": "Round-robin assigned voice for Alpy"
+  },
+  "Lucy\u2019S": {
+    "speaker_id": "p236",
+    "description": "Round-robin assigned voice for Lucy\u2019S"
+  },
+  "Ronnie": {
+    "speaker_id": "p237",
+    "description": "Round-robin assigned voice for Ronnie"
+  },
+  "Contacting Miss": {
+    "speaker_id": "p238",
+    "description": "Round-robin assigned voice for Contacting Miss"
+  },
+  "Charles": {
+    "speaker_id": "p239",
+    "description": "Round-robin assigned voice for Charles"
+  },
+  "Matthew": {
+    "speaker_id": "p240",
+    "description": "Round-robin assigned voice for Matthew"
+  },
+  "Edith": {
+    "speaker_id": "p241",
+    "description": "Round-robin assigned voice for Edith"
+  },
+  "Matthew\u2019S": {
+    "speaker_id": "p243",
+    "description": "Round-robin assigned voice for Matthew\u2019S"
+  },
+  "\u2019S Tashlit": {
+    "speaker_id": "p244",
+    "description": "Round-robin assigned voice for \u2019S Tashlit"
+  },
+  "Alpeana": {
+    "speaker_id": "p245",
+    "description": "Round-robin assigned voice for Alpeana"
+  },
+  "King": {
+    "speaker_id": "p246",
+    "description": "Round-robin assigned voice for King"
+  },
+  "Tashlit": {
+    "speaker_id": "p247",
+    "description": "Round-robin assigned voice for Tashlit"
+  },
+  "Alcazar": {
+    "speaker_id": "p248",
+    "description": "Round-robin assigned voice for Alcazar"
+  },
+  "Bad": {
+    "speaker_id": "p249",
+    "description": "Round-robin assigned voice for Bad"
+  },
+  "Kennet": {
+    "speaker_id": "p250",
+    "description": "Round-robin assigned voice for Kennet"
+  },
+  "Sheridan": {
+    "speaker_id": "p251",
+    "description": "Round-robin assigned voice for Sheridan"
+  },
+  "Hoof": {
+    "speaker_id": "p252",
+    "description": "Round-robin assigned voice for Hoof"
+  },
+  "Y-A.  Ya.": {
+    "speaker_id": "p253",
+    "description": "Round-robin assigned voice for Y-A.  Ya."
+  },
+  "Nicolette": {
+    "speaker_id": "p254",
+    "description": "Round-robin assigned voice for Nicolette"
+  },
+  "Uhhh": {
+    "speaker_id": "p255",
+    "description": "Round-robin assigned voice for Uhhh"
+  },
+  "Alexander": {
+    "speaker_id": "p256",
+    "description": "Round-robin assigned voice for Alexander"
+  },
+  "Zed": {
+    "speaker_id": "p257",
+    "description": "Round-robin assigned voice for Zed"
+  },
+  "Brie": {
+    "speaker_id": "p258",
+    "description": "Round-robin assigned voice for Brie"
+  },
+  "Zachariah": {
+    "speaker_id": "p259",
+    "description": "Round-robin assigned voice for Zachariah"
+  },
+  "Mom": {
+    "speaker_id": "p260",
+    "description": "Round-robin assigned voice for Mom"
+  },
+  "Sorta": {
+    "speaker_id": "p261",
+    "description": "Round-robin assigned voice for Sorta"
+  },
+  "Ave": {
+    "speaker_id": "p262",
+    "description": "Round-robin assigned voice for Ave"
+  },
+  "Hardy": {
+    "speaker_id": "p263",
+    "description": "Round-robin assigned voice for Hardy"
+  },
+  "Guilherme": {
+    "speaker_id": "p264",
+    "description": "Round-robin assigned voice for Guilherme"
+  },
+  "Jessica": {
+    "speaker_id": "p265",
+    "description": "Round-robin assigned voice for Jessica"
+  },
+  "Daniel": {
+    "speaker_id": "p266",
+    "description": "Round-robin assigned voice for Daniel"
+  },
+  "Reagan": {
+    "speaker_id": "p267",
+    "description": "Round-robin assigned voice for Reagan"
+  },
+  "Eyed": {
+    "speaker_id": "p268",
+    "description": "Round-robin assigned voice for Eyed"
+  },
+  "Augur": {
+    "speaker_id": "p269",
+    "description": "Round-robin assigned voice for Augur"
+  },
+  "Whatever Verona": {
+    "speaker_id": "p270",
+    "description": "Round-robin assigned voice for Whatever Verona"
+  },
+  "Swanson": {
+    "speaker_id": "p271",
+    "description": "Round-robin assigned voice for Swanson"
+  },
+  "Arena": {
+    "speaker_id": "p272",
+    "description": "Round-robin assigned voice for Arena"
+  },
+  "Glass": {
+    "speaker_id": "p273",
+    "description": "Round-robin assigned voice for Glass"
+  },
+  "Iris": {
+    "speaker_id": "p274",
+    "description": "Round-robin assigned voice for Iris"
+  },
+  "Miss": {
+    "speaker_id": "p275",
+    "description": "Round-robin assigned voice for Miss"
+  },
+  "Toward Miss": {
+    "speaker_id": "p276",
+    "description": "Round-robin assigned voice for Toward Miss"
+  },
+  "Lies": {
+    "speaker_id": "p277",
+    "description": "Round-robin assigned voice for Lies"
+  },
+  "Ehhh": {
+    "speaker_id": "p278",
+    "description": "Round-robin assigned voice for Ehhh"
+  },
+  "Floor": {
+    "speaker_id": "p279",
+    "description": "Round-robin assigned voice for Floor"
+  },
+  "Tall": {
+    "speaker_id": "p280",
+    "description": "Round-robin assigned voice for Tall"
+  },
+  "Louis Riel Public": {
+    "speaker_id": "p281",
+    "description": "Round-robin assigned voice for Louis Riel Public"
+  },
+  "Moron": {
+    "speaker_id": "p282",
+    "description": "Round-robin assigned voice for Moron"
+  },
+  "Melissa": {
+    "speaker_id": "p283",
+    "description": "Round-robin assigned voice for Melissa"
+  },
+  "George": {
+    "speaker_id": "p284",
+    "description": "Round-robin assigned voice for George"
+  },
+  "Jeremy": {
+    "speaker_id": "p285",
+    "description": "Round-robin assigned voice for Jeremy"
+  },
+  "Wallace": {
+    "speaker_id": "p286",
+    "description": "Round-robin assigned voice for Wallace"
+  },
+  "Pamela O\u2019Neill": {
+    "speaker_id": "p287",
+    "description": "Round-robin assigned voice for Pamela O\u2019Neill"
+  },
+  "Pamela": {
+    "speaker_id": "p288",
+    "description": "Round-robin assigned voice for Pamela"
+  },
+  "Fingers": {
+    "speaker_id": "p292",
+    "description": "Round-robin assigned voice for Fingers"
+  },
+  "Pale": {
+    "speaker_id": "p293",
+    "description": "Round-robin assigned voice for Pale"
+  },
+  "Chinstrap": {
+    "speaker_id": "p294",
+    "description": "Round-robin assigned voice for Chinstrap"
+  },
+  "John": {
+    "speaker_id": "p295",
+    "description": "Round-robin assigned voice for John"
+  },
+  "Small": {
+    "speaker_id": "p297",
+    "description": "Round-robin assigned voice for Small"
+  },
+  "Simply": {
+    "speaker_id": "p298",
+    "description": "Round-robin assigned voice for Simply"
+  }
+}
