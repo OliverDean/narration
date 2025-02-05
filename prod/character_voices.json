@@ -1,0 +1,327 @@
+{
+  "Narrator": {
+    "speaker_id": "p267",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Lucy": {
+    "speaker_id": "p270",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Verona": {
+    "speaker_id": "p300",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Avery": {
+    "speaker_id": "p333",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "SnowDrop": {
+    "speaker_id": "p237",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Miss": {
+    "speaker_id": "p311",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Matthew": {
+    "speaker_id": "p256",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Edith": {
+    "speaker_id": "p362",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Toadswallow": {
+    "speaker_id": "p376",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Guilherme": {
+    "speaker_id": "p318",
+    "gender": "male",
+    "desc": "auto"
+  },
+  "Maricica": {
+    "speaker_id": "p339",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "John": {
+    "speaker_id": "p307",
+    "gender": "male",
+    "desc": "auto"
+  },
+  "Tash": {
+    "speaker_id": "p225",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Reid": {
+    "speaker_id": "p226",
+    "gender": "male",
+    "desc": "auto"
+  },
+  "Raymond": {
+    "speaker_id": "p228",
+    "gender": "male",
+    "desc": "auto"
+  },
+  "Abbas": {
+    "speaker_id": "p229",
+    "gender": "male",
+    "desc": "auto"
+  },
+  "Raquel": {
+    "speaker_id": "p233",
+    "gender": "male",
+    "desc": "auto"
+  },
+  "Donovan": {
+    "speaker_id": "p236",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Abraham": {
+    "speaker_id": "p239",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Alexander": {
+    "speaker_id": "p241",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Kaye": {
+    "speaker_id": "p254",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Durocher": {
+    "speaker_id": "p255",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Eve Allemand": {
+    "speaker_id": "p257",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Kassidy Knox": {
+    "speaker_id": "p237",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Yadira": {
+    "speaker_id": "p265",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Sawyer Hennigar": {
+    "speaker_id": "p240",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Kellen Hennigar": {
+    "speaker_id": "p243",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Solomon": {
+    "speaker_id": "p266",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Bristow": {
+    "speaker_id": "p267",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Abraham Musser": {
+    "speaker_id": "p279",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Haris": {
+    "speaker_id": "p281",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Francis": {
+    "speaker_id": "p282",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Belanger": {
+    "speaker_id": "p286",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Hudson": {
+    "speaker_id": "p287",
+    "gender": "male",
+    "desc": "auto"
+  },
+  "Elise": {
+    "speaker_id": "p247",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Thick": {
+    "speaker_id": "p226",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Zed": {
+    "speaker_id": "p228",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Grease": {
+    "speaker_id": "p225",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Brie": {
+    "speaker_id": "p229",
+    "gender": "male",
+    "desc": "auto"
+  },
+  "Jessica": {
+    "speaker_id": "p230",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Ruins": {
+    "speaker_id": "p231",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Witch Hunters": {
+    "speaker_id": "p232",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Ken": {
+    "speaker_id": "p227",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Warrens": {
+    "speaker_id": "p233",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Montague": {
+    "speaker_id": "p234",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Oni": {
+    "speaker_id": "p234",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Path": {
+    "speaker_id": "p240",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Sable": {
+    "speaker_id": "p238",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Kick": {
+    "speaker_id": "p239",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Trustworthy": {
+    "speaker_id": "p241",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Snow": {
+    "speaker_id": "p251",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Jeremy": {
+    "speaker_id": "p243",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Hats": {
+    "speaker_id": "p253",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Ray": {
+    "speaker_id": "p254",
+    "gender": "male",
+    "desc": "auto"
+  },
+  "Charles": {
+    "speaker_id": "p255",
+    "gender": "male",
+    "desc": "auto"
+  },
+  "Underwater": {
+    "speaker_id": "p244",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Joints": {
+    "speaker_id": "p245",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Carmine": {
+    "speaker_id": "p246",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Forks": {
+    "speaker_id": "p247",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Buildings": {
+    "speaker_id": "p256",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Signs": {
+    "speaker_id": "p257",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Melissa": {
+    "speaker_id": "p262",
+    "gender": "unknown",
+    "desc": "auto"
+  },
+  "Alabaster": {
+    "speaker_id": "p248",
+    "gender": "female",
+    "desc": "auto"
+  },
+  "Abyss": {
+    "speaker_id": "p264",
+    "gender": "male",
+    "desc": "auto"
+  },
+  "Ronnie": {
+    "speaker_id": "p265",
+    "gender": "unknown",
+    "desc": "auto"
+  }
+}
